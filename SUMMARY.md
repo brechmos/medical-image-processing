@@ -1,6 +1,6 @@
 # Table of contents
 
-* [medical-image-processing](README.md)
+* [General Information](README.md)
 * [Imaging Modalities](imaging-modalities/README.md)
   * [MRI](imaging-modalities/mri.md)
 * [Image Types](image-types.md)
@@ -8,3 +8,7 @@
 * [Image Filtering](image-filtering.md)
 * [Image Segmentation](image-segmentation.md)
 * [Page 1](page-1.md)
+
+## Classes
+
+* [Classes](classes/classes.md)
