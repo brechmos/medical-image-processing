@@ -5,3 +5,6 @@
   * [MRI](imaging-modalities/mri.md)
 * [Image Types](image-types.md)
 * [Basic Image Processing](basic-image-processing.md)
+* [Image Filtering](image-filtering.md)
+* [Image Segmentation](image-segmentation.md)
+* [Page 1](page-1.md)
